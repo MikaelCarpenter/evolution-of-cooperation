@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 204,
+    "MASLOW": 199
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 5
+      },
+      "MASLOW": {
+        "Decision": 0,
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      },
+      "MASLOW": {
+        "Decision": 1,
+        "PointsAwarded": 1
+      }
+    }
+  ]
+}
