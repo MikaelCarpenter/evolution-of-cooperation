@@ -1,105 +1,105 @@
 {
   "CurrentGameScore": {
-    "0": 14,
-    "1": 9
+    "BASE_LINE": 14,
+    "TIT_FOR_TAT": 9
   },
   "RoundHistory": [
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 5
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 0
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }
     },
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 1
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 1,
         "PointsAwarded": 1
       }

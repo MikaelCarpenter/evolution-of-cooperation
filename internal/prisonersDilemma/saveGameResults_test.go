@@ -30,16 +30,16 @@ func TestSaveGameResults(t *testing.T) {
 
 const expectedOutput = `{
   "CurrentGameScore": {
-    "0": 5,
-    "1": 0
+    "BASE_LINE": 5,
+    "TIT_FOR_TAT": 0
   },
   "RoundHistory": [
     {
-      "0": {
+      "BASE_LINE": {
         "Decision": 1,
         "PointsAwarded": 5
       },
-      "1": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 0
       }

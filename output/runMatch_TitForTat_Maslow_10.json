@@ -1,105 +1,105 @@
 {
   "CurrentGameScore": {
-    "1": 30,
-    "2": 30
+    "MASLOW": 30,
+    "TIT_FOR_TAT": 30
   },
   "RoundHistory": [
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }
     },
     {
-      "1": {
+      "MASLOW": {
         "Decision": 0,
         "PointsAwarded": 3
       },
-      "2": {
+      "TIT_FOR_TAT": {
         "Decision": 0,
         "PointsAwarded": 3
       }

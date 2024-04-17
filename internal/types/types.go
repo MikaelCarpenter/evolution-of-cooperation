@@ -31,13 +31,13 @@ type StrategyResult struct {
 StrategyIdentifier is an enum to track the different strategies.
 Current strategies include: BASE_LINE, TIT_FOR_TAT
 */
-type StrategyIdentifier int
+type StrategyIdentifier string
 
 const (
-	BASE_LINE StrategyIdentifier = iota
-	TIT_FOR_TAT
-	MASLOW
-	MOCK
+	BASE_LINE   StrategyIdentifier = "BASE_LINE"
+	TIT_FOR_TAT StrategyIdentifier = "TIT_FOR_TAT"
+	MASLOW      StrategyIdentifier = "MASLOW"
+	MOCK        StrategyIdentifier = "MOCK"
 )
 
 type RoundResult map[StrategyIdentifier]StrategyResult
