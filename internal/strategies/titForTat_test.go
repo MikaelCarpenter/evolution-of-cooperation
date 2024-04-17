@@ -7,7 +7,7 @@ import (
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 )
 
-func TestTitForTatStrategyFucntion(t *testing.T) {
+func TestTitForTatStrategyFunction(t *testing.T) {
 	t.Run("it should COOPERATE in the first round", func(t *testing.T) {
 		input := GameState{
 			CurrentGameScore: GameScoreStatus{

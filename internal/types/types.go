@@ -36,6 +36,7 @@ type StrategyIdentifier int
 const (
 	BASE_LINE StrategyIdentifier = iota
 	TIT_FOR_TAT
+	MASLOW
 	MOCK
 )
 

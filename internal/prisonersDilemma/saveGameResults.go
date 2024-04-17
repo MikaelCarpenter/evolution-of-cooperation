@@ -22,6 +22,7 @@ func SaveGameResults(strat1, strat2, output string, rounds int) {
 	strategyMapping := map[string]Strategy{
 		"BaseLineStrategy":  BaseLineStrategy,
 		"TitForTatStrategy": TitForTatStrategy,
+		"MaslowStrategy":    MaslowStrategy,
 	}
 
 	gameInput := GameInput{

@@ -1,0 +1,108 @@
+{
+  "CurrentGameScore": {
+    "1": 30,
+    "2": 30
+  },
+  "RoundHistory": [
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "1": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      },
+      "2": {
+        "Decision": 0,
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}
