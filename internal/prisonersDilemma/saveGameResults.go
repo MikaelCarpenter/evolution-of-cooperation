@@ -27,6 +27,7 @@ func SaveGameResults(strat1, strat2, output string, rounds int) {
 		"ShameOnMeStrategy":         ShameOnMeStrategy,
 		"CopyCatStrategy":           CopyCatStrategy,
 		"RandomStrategy":            RandomStrategy,
+		"FriedmanStrategy":          FriedmanStrategy,
 	}
 
 	gameInput := GameInput{

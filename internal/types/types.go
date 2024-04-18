@@ -30,6 +30,7 @@ const (
 	SHAME_ON_ME          StrategyIdentifier = "SHAME_ON_ME"
 	COPY_CAT             StrategyIdentifier = "COPY_CAT"
 	RANDOM               StrategyIdentifier = "RANDOM"
+	FRIEDMAN             StrategyIdentifier = "FRIEDMAN"
 	MOCK                 StrategyIdentifier = "MOCK"
 )
 
