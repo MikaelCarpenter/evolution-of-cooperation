@@ -28,6 +28,7 @@ const (
 	MASLOW               StrategyIdentifier = "MASLOW"
 	WIN_STAY_LOSE_SWITCH StrategyIdentifier = "WIN_STAY_LOSE_SWITCH"
 	SHAME_ON_ME          StrategyIdentifier = "SHAME_ON_ME"
+	COPY_CAT             StrategyIdentifier = "COPY_CAT"
 	MOCK                 StrategyIdentifier = "MOCK"
 )
 
