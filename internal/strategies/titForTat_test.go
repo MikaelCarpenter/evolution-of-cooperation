@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/strategies"
+	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/testUtils"
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 )
 
@@ -17,12 +18,7 @@ func TestTitForTatStrategyFunction(t *testing.T) {
 			RoundHistory: []RoundResult{},
 		}
 
-		expected := COOPERATE
-		received := TitForTatStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, TitForTatStrategyFunction, input, COOPERATE)
 	})
 
 	t.Run("it should DEFECT if the opponent DEFECTs in the round prior", func(t *testing.T) {
@@ -45,12 +41,7 @@ func TestTitForTatStrategyFunction(t *testing.T) {
 			},
 		}
 
-		expected := DEFECT
-		received := TitForTatStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, TitForTatStrategyFunction, input, DEFECT)
 	})
 
 	t.Run("it should continue to DEFECT if the opponent continues to DEFECT", func(t *testing.T) {
@@ -83,12 +74,7 @@ func TestTitForTatStrategyFunction(t *testing.T) {
 			},
 		}
 
-		expected := DEFECT
-		received := TitForTatStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, TitForTatStrategyFunction, input, DEFECT)
 	})
 
 	t.Run("it should return to COOPERATE-ing if the opponent decides to COOPERATE in the previous round", func(t *testing.T) {
@@ -131,12 +117,7 @@ func TestTitForTatStrategyFunction(t *testing.T) {
 			},
 		}
 
-		expected := COOPERATE
-		received := TitForTatStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, TitForTatStrategyFunction, input, COOPERATE)
 	})
 
 }

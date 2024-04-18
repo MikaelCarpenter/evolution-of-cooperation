@@ -2,6 +2,7 @@ package strategies_test
 
 import (
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/strategies"
+	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/testUtils"
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 
 	"testing"
@@ -28,12 +29,7 @@ func TestBaseLineStrategy(t *testing.T) {
 			},
 		}
 
-		received := BaseLineStrategyFunction(input)
-		expected := DEFECT
-
-		if received != expected {
-			t.Errorf("Expected %v, got %v", expected, received)
-		}
+		AssertDecision(t, BaseLineStrategyFunction, input, DEFECT)
 	})
 
 	t.Run("defects if opponent defected last round", func(t *testing.T) {
@@ -56,11 +52,6 @@ func TestBaseLineStrategy(t *testing.T) {
 			},
 		}
 
-		received := BaseLineStrategyFunction(input)
-		expected := DEFECT
-
-		if received != expected {
-			t.Errorf("Expected %v, got %v", expected, received)
-		}
+		AssertDecision(t, BaseLineStrategyFunction, input, DEFECT)
 	})
 }

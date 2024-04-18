@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/strategies"
+	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/testUtils"
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 )
 
@@ -17,12 +18,7 @@ func TestMaslowStrategyFunction(t *testing.T) {
 			RoundHistory: []RoundResult{},
 		}
 
-		expected := COOPERATE
-		received := MaslowStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, MaslowStrategyFunction, input, COOPERATE)
 	})
 
 	t.Run("it should COOPERATE if currently winning", func(t *testing.T) {
@@ -34,12 +30,7 @@ func TestMaslowStrategyFunction(t *testing.T) {
 			RoundHistory: []RoundResult{},
 		}
 
-		expected := COOPERATE
-		received := MaslowStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, MaslowStrategyFunction, input, COOPERATE)
 	})
 
 	t.Run("it should COOPERATE if currently tied", func(t *testing.T) {
@@ -51,12 +42,7 @@ func TestMaslowStrategyFunction(t *testing.T) {
 			RoundHistory: []RoundResult{},
 		}
 
-		expected := COOPERATE
-		received := MaslowStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, MaslowStrategyFunction, input, COOPERATE)
 	})
 
 	t.Run("it should DEFECT if currently losing", func(t *testing.T) {
@@ -68,11 +54,6 @@ func TestMaslowStrategyFunction(t *testing.T) {
 			RoundHistory: []RoundResult{},
 		}
 
-		expected := DEFECT
-		received := MaslowStrategyFunction(input)
-
-		if expected != received {
-			t.Errorf("Expected decision: %v. Received: %v", expected, received)
-		}
+		AssertDecision(t, MaslowStrategyFunction, input, DEFECT)
 	})
 }
