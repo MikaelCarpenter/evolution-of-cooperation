@@ -34,10 +34,11 @@ Current strategies include: BASE_LINE, TIT_FOR_TAT
 type StrategyIdentifier string
 
 const (
-	BASE_LINE   StrategyIdentifier = "BASE_LINE"
-	TIT_FOR_TAT StrategyIdentifier = "TIT_FOR_TAT"
-	MASLOW      StrategyIdentifier = "MASLOW"
-	MOCK        StrategyIdentifier = "MOCK"
+	BASE_LINE            StrategyIdentifier = "BASE_LINE"
+	TIT_FOR_TAT          StrategyIdentifier = "TIT_FOR_TAT"
+	MASLOW               StrategyIdentifier = "MASLOW"
+	WIN_STAY_LOSE_SWITCH StrategyIdentifier = "WIN_STAY_LOSE_SWITCH"
+	MOCK                 StrategyIdentifier = "MOCK"
 )
 
 type RoundResult map[StrategyIdentifier]StrategyResult
@@ -87,7 +88,10 @@ type GameState struct {
 	CurrentGameScore GameScoreStatus
 	RoundHistory     []RoundResult
 }
+
+type StrategyFunction func(GameState) Decision
+
 type Strategy struct {
 	Identifier       StrategyIdentifier
-	StrategyFunction func(GameState) Decision
+	StrategyFunction StrategyFunction
 }
