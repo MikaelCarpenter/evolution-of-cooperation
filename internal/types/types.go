@@ -4,23 +4,12 @@ package types
 Decision represents the output of a strategy.
 It can be either COOPERATE (0) or DEFECT (1).
 */
-type Decision int
+type Decision string
 
 const (
-	COOPERATE Decision = iota
-	DEFECT
+	COOPERATE Decision = "COOPERATE"
+	DEFECT    Decision = "DEFECT"
 )
-
-func (d Decision) String() string {
-	switch d {
-	case COOPERATE:
-		return "COOPERATE"
-	case DEFECT:
-		return "DEFECT"
-	default:
-		return "UNKNOWN"
-	}
-}
 
 type StrategyResult struct {
 	Decision      Decision

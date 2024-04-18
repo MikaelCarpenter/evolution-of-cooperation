@@ -1,7 +1,7 @@
 {
   "CurrentGameScore": {
     "MASLOW": 600,
-    "TIT_FOR_TAT": 600
+    "WIN_STAY_LOSE_SWITCH": 600
   },
   "RoundHistory": [
     {
@@ -9,7 +9,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -19,7 +19,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -29,7 +29,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -39,7 +39,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -49,7 +49,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -59,7 +59,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -69,7 +69,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -79,7 +79,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -89,7 +89,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -99,7 +99,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -109,7 +109,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -119,7 +119,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -129,7 +129,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -139,7 +139,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -149,7 +149,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -159,7 +159,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -169,7 +169,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -179,7 +179,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -189,7 +189,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -199,7 +199,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -209,7 +209,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -219,7 +219,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -229,7 +229,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -239,7 +239,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -249,7 +249,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -259,7 +259,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -269,7 +269,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -279,7 +279,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -289,7 +289,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -299,7 +299,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -309,7 +309,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -319,7 +319,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -329,7 +329,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -339,7 +339,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -349,7 +349,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -359,7 +359,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -369,7 +369,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -379,7 +379,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -389,7 +389,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -399,7 +399,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -409,7 +409,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -419,7 +419,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -429,7 +429,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -439,7 +439,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -449,7 +449,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -459,7 +459,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -469,7 +469,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -479,7 +479,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -489,7 +489,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -499,7 +499,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -509,7 +509,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -519,7 +519,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -529,7 +529,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -539,7 +539,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -549,7 +549,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -559,7 +559,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -569,7 +569,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -579,7 +579,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -589,7 +589,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -599,7 +599,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -609,7 +609,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -619,7 +619,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -629,7 +629,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -639,7 +639,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -649,7 +649,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -659,7 +659,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -669,7 +669,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -679,7 +679,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -689,7 +689,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -699,7 +699,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -709,7 +709,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -719,7 +719,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -729,7 +729,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -739,7 +739,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -749,7 +749,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -759,7 +759,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -769,7 +769,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -779,7 +779,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -789,7 +789,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -799,7 +799,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -809,7 +809,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -819,7 +819,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -829,7 +829,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -839,7 +839,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -849,7 +849,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -859,7 +859,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -869,7 +869,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -879,7 +879,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -889,7 +889,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -899,7 +899,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -909,7 +909,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -919,7 +919,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -929,7 +929,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -939,7 +939,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -949,7 +949,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -959,7 +959,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -969,7 +969,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -979,7 +979,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -989,7 +989,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -999,7 +999,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1009,7 +1009,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1019,7 +1019,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1029,7 +1029,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1039,7 +1039,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1049,7 +1049,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1059,7 +1059,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1069,7 +1069,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1079,7 +1079,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1089,7 +1089,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1099,7 +1099,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1109,7 +1109,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1119,7 +1119,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1129,7 +1129,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1139,7 +1139,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1149,7 +1149,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1159,7 +1159,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1169,7 +1169,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1179,7 +1179,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1189,7 +1189,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1199,7 +1199,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1209,7 +1209,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1219,7 +1219,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1229,7 +1229,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1239,7 +1239,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1249,7 +1249,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1259,7 +1259,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1269,7 +1269,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1279,7 +1279,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1289,7 +1289,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1299,7 +1299,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1309,7 +1309,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1319,7 +1319,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1329,7 +1329,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1339,7 +1339,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1349,7 +1349,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1359,7 +1359,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1369,7 +1369,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1379,7 +1379,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1389,7 +1389,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1399,7 +1399,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1409,7 +1409,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1419,7 +1419,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1429,7 +1429,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1439,7 +1439,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1449,7 +1449,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1459,7 +1459,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1469,7 +1469,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1479,7 +1479,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1489,7 +1489,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1499,7 +1499,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1509,7 +1509,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1519,7 +1519,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1529,7 +1529,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1539,7 +1539,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1549,7 +1549,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1559,7 +1559,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1569,7 +1569,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1579,7 +1579,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1589,7 +1589,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1599,7 +1599,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1609,7 +1609,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1619,7 +1619,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1629,7 +1629,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1639,7 +1639,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1649,7 +1649,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1659,7 +1659,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1669,7 +1669,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1679,7 +1679,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1689,7 +1689,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1699,7 +1699,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1709,7 +1709,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1719,7 +1719,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1729,7 +1729,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1739,7 +1739,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1749,7 +1749,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1759,7 +1759,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1769,7 +1769,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1779,7 +1779,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1789,7 +1789,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1799,7 +1799,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1809,7 +1809,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1819,7 +1819,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1829,7 +1829,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1839,7 +1839,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1849,7 +1849,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1859,7 +1859,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1869,7 +1869,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1879,7 +1879,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1889,7 +1889,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1899,7 +1899,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1909,7 +1909,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1919,7 +1919,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1929,7 +1929,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1939,7 +1939,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1949,7 +1949,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1959,7 +1959,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1969,7 +1969,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1979,7 +1979,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1989,7 +1989,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }
@@ -1999,7 +1999,7 @@
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       },
-      "TIT_FOR_TAT": {
+      "WIN_STAY_LOSE_SWITCH": {
         "Decision": "COOPERATE",
         "PointsAwarded": 3
       }

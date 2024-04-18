@@ -36,11 +36,11 @@ const expectedOutput = `{
   "RoundHistory": [
     {
       "BASE_LINE": {
-        "Decision": 1,
+        "Decision": "DEFECT",
         "PointsAwarded": 5
       },
       "TIT_FOR_TAT": {
-        "Decision": 0,
+        "Decision": "COOPERATE",
         "PointsAwarded": 0
       }
     }
