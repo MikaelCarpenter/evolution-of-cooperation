@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "RANDOM": 600,
+    "WIN_STAY_LOSE_SWITCH": 600
+  },
+  "RoundHistory": [
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}

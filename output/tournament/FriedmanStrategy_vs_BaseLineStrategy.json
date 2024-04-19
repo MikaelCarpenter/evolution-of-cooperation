@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 204,
+    "FRIEDMAN": 199
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "FRIEDMAN": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    }
+  ]
+}

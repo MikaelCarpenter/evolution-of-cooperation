@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 1000,
+    "SHAME_ON_ME": 0
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "SHAME_ON_ME": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    }
+  ]
+}

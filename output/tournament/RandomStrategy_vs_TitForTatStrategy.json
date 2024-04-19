@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "RANDOM": 600,
+    "TIT_FOR_TAT": 600
+  },
+  "RoundHistory": [
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 1000,
+    "RANDOM": 0
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    }
+  ]
+}

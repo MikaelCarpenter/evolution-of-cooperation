@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "MASLOW": 600,
+    "WIN_STAY_LOSE_SWITCH": 600
+  },
+  "RoundHistory": [
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "WIN_STAY_LOSE_SWITCH": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}

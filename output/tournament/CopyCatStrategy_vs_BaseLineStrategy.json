@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 204,
+    "COPY_CAT": 199
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "COPY_CAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "COPY_CAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    }
+  ]
+}

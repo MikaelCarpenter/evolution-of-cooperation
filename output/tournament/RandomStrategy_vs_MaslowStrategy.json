@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "MASLOW": 600,
+    "RANDOM": 600
+  },
+  "RoundHistory": [
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "MASLOW": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}

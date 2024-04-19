@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "BASE_LINE": 204,
+    "TIT_FOR_TAT": 199
+  },
+  "RoundHistory": [
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 5
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 0
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    },
+    {
+      "BASE_LINE": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      },
+      "TIT_FOR_TAT": {
+        "Decision": "DEFECT",
+        "PointsAwarded": 1
+      }
+    }
+  ]
+}

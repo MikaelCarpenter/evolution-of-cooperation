@@ -1,0 +1,2008 @@
+{
+  "CurrentGameScore": {
+    "FRIEDMAN": 600,
+    "RANDOM": 600
+  },
+  "RoundHistory": [
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    },
+    {
+      "FRIEDMAN": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      },
+      "RANDOM": {
+        "Decision": "COOPERATE",
+        "PointsAwarded": 3
+      }
+    }
+  ]
+}
