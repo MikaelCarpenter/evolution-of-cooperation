@@ -7,7 +7,6 @@ import (
 	"log"
 	"os"
 
-	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/strategies"
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 )
 
@@ -19,20 +18,9 @@ func SaveGameResults(strat1, strat2, output string, rounds int) {
 		os.Exit(1)
 	}
 
-	strategyMapping := map[string]Strategy{
-		"BaseLineStrategy":          BaseLineStrategy,
-		"TitForTatStrategy":         TitForTatStrategy,
-		"MaslowStrategy":            MaslowStrategy,
-		"WinStayLoseSwitchStrategy": WinStayLoseSwitchStrategy,
-		"ShameOnMeStrategy":         ShameOnMeStrategy,
-		"CopyCatStrategy":           CopyCatStrategy,
-		"RandomStrategy":            RandomStrategy,
-		"FriedmanStrategy":          FriedmanStrategy,
-	}
-
 	gameInput := GameInput{
-		Strat1: strategyMapping[strat1],
-		Strat2: strategyMapping[strat2],
+		Strat1: AvailableStrategyMapping[strat1],
+		Strat2: AvailableStrategyMapping[strat2],
 		Rounds: rounds,
 	}
 

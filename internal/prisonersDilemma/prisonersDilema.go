@@ -3,8 +3,20 @@ package prisonersdilemma
 import (
 	"errors"
 
+	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/strategies"
 	. "github.com/MikaelCarpenter/evolution-of-cooperation/internal/types"
 )
+
+var AvailableStrategyMapping = map[string]Strategy{
+	"BaseLineStrategy":          BaseLineStrategy,
+	"TitForTatStrategy":         TitForTatStrategy,
+	"MaslowStrategy":            MaslowStrategy,
+	"WinStayLoseSwitchStrategy": WinStayLoseSwitchStrategy,
+	"ShameOnMeStrategy":         ShameOnMeStrategy,
+	"CopyCatStrategy":           CopyCatStrategy,
+	"RandomStrategy":            RandomStrategy,
+	"FriedmanStrategy":          FriedmanStrategy,
+}
 
 func RunGame(input GameInput) (GameState, error) {
 	if input.Strat1.Identifier == input.Strat2.Identifier {
